@@ -17,6 +17,8 @@ R2CN（RISC-V Rust for Cloud Native）开源实习计划由中国科学院软件
 
 * [Web3 Infrastructure Foundation](https://github.com/web3infra-foundation)
 * [开放原子旋武开源社区](https://xuanwu.openatom.cn)
+* [TuGraph](https://www.tugraph.org)
+* [RustFS](https://rustfs.com)
 
 ## 支持的开源项目
 
