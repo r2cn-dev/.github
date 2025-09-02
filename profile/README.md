@@ -11,4 +11,16 @@
 
 ## RISC-V Rust for Cloud Native 开源实习计划
 
-R2CN（RISC-V Rust for Cloud Native）开源实习计划由中科院软件所、华为等机构联合主办，目标是培养精通 Rust 编程语言、熟悉 RISC-V 架构的、构建兼容 RISC-V 云原生技术栈创新生态。
+R2CN（RISC-V Rust for Cloud Native）开源实习计划由中国科学院软件研究所主办，由华为技术有限公司赞助的开源实习计划，目标是培养精通 Rust 编程语言、熟悉 RISC-V 架构的、构建兼容 RISC-V 云原生技术栈创新生态。
+
+## 合作社区
+
+* [Web3 Infrastructure Foundation](https://github.com/web3infra-foundation)
+* [开放原子旋武开源社区](https://xuanwu.openatom.cn)
+
+## 支持的开源项目
+
+* [Rk8s](https://github.com/r2cn-dev/rk8s) - Rust 重构 Kubernetes 项目
+* [Mega](https://github.com/web3infra-foundation/mega) - Rust 重写 Git ，以及开源版 Google Piper 代码管理平台
+* [miniGU](https://github.com/TuGraph-family/miniGU) - Rust 实现的开源图数据库
+* [RustFS](https://github.com/rustfs/rustfs) - Rust 实现的分布式对象存储，用于平替MinIO
